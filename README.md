@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kristofferinthecloud
 - 👀 I’m interested in ... All things Cybersecurity, AI, Automation, learning, collaborating, DJing, Music Production.
 - 🌱 I’m currently learning ... Coding, Cybersecurity, Automation, DevSecOps
-- 💞️ I’m looking to collaborate on ... Tutorials and How To's
+- 💞️ I’m looking to collaborate on ... Tutorials and How To's, Podcasts
 - 📫 How to reach me ... kristofferinthecloud@gmail.com
 
 <!---
